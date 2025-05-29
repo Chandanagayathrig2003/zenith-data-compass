@@ -87,7 +87,3 @@ src/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-If you have any questions or issues, please open an issue in the repository or contact the development team.
